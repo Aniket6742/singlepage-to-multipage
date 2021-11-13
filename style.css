@@ -1,0 +1,66 @@
+*{padding: 0%; 
+  margin:0px;
+ }
+
+ .full{
+     
+     box-sizing: border-box;
+     background-color: rgb(100, 100, 179);
+     color: white;
+ }
+
+ .div1{
+     margin-left: 50px;
+     position: absolute;
+     top:20px;
+     box-sizing: border-box;
+     display:inline-block;
+    }
+
+    .div1 a{
+            color:white;
+            top: 50px;
+            border-right: 1px solid white;
+            box-sizing: border-box;
+            padding: 5px;
+        }
+    .sim{
+        box-sizing: border-box;
+        display: inline;
+        
+    }  
+    .sim h1,h6{
+        margin-left: 280px;
+        text-align: center;
+    }   
+
+    .nexta{padding: 40px;
+         background-color:rgb(79, 79, 143);
+         height: 50px;
+         box-sizing: border-box;
+         
+    }
+    .nexta a{
+        color:rgb(64, 177, 211);
+        padding-left: 40px;
+        margin-left: 50px;
+        border-left: 2px solid rgb(53, 129, 173);
+        text-decoration: none;
+    }
+    .nextalu{
+        margin-right:50px; 
+        padding-right:40px;
+        border-right: 2px solid rgb(53, 129, 173);
+    }
+    .img{display: block;
+          margin-left: 80px;  
+    }
+    .foot{ 
+           background-color: #808080;
+        box-sizing: border-box;
+        display: flex;
+        justify-content:space-around;
+    }
+    .foot a{
+            color: white;
+            }
